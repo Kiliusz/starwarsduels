@@ -1,0 +1,8 @@
+{
+  "short_name": "Star Wars Duels",
+  "name": "Star Wars Duels",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

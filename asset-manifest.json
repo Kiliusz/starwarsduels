@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kiliusz.github.io/starwarsduels/static/css/main.31d6cfe0.css",
+    "main.js": "/kiliusz.github.io/starwarsduels/static/js/main.add73542.js",
+    "static/js/787.a1ae8169.chunk.js": "/kiliusz.github.io/starwarsduels/static/js/787.a1ae8169.chunk.js",
+    "static/media/cats_sabres.gif": "/kiliusz.github.io/starwarsduels/static/media/cats_sabres.51857245955a2bdaf419.gif",
+    "index.html": "/kiliusz.github.io/starwarsduels/index.html",
+    "main.add73542.js.map": "/kiliusz.github.io/starwarsduels/static/js/main.add73542.js.map",
+    "787.a1ae8169.chunk.js.map": "/kiliusz.github.io/starwarsduels/static/js/787.a1ae8169.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.add73542.js"
+  ]
+}
