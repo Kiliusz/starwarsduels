@@ -1,0 +1,90 @@
+const mockedResponse = {
+  data: {
+    results: [
+      {
+        name: "Luke Skywalker",
+        height: "172",
+        mass: "77",
+        hair_color: "blond",
+        skin_color: "fair",
+        eye_color: "blue",
+      },
+      {
+        name: "Luke Skywalker",
+        height: "172",
+        mass: "77",
+        hair_color: "blond",
+        skin_color: "fair",
+        eye_color: "blue",
+      },
+      {
+        name: "Luke Skywalker",
+        height: "172",
+        mass: "77",
+        hair_color: "blond",
+        skin_color: "fair",
+        eye_color: "blue",
+      },
+      {
+        name: "Luke Skywalker",
+        height: "172",
+        mass: "77",
+        hair_color: "blond",
+        skin_color: "fair",
+        eye_color: "blue",
+      },
+      {
+        name: "Luke Skywalker",
+        height: "172",
+        mass: "77",
+        hair_color: "blond",
+        skin_color: "fair",
+        eye_color: "blue",
+      },
+      {
+        name: "Luke Skywalker",
+        height: "172",
+        mass: "77",
+        hair_color: "blond",
+        skin_color: "fair",
+        eye_color: "blue",
+      },
+      {
+        name: "Luke Skywalker",
+        height: "172",
+        mass: "77",
+        hair_color: "blond",
+        skin_color: "fair",
+        eye_color: "blue",
+      },
+      {
+        name: "Luke Skywalker",
+        height: "172",
+        mass: "77",
+        hair_color: "blond",
+        skin_color: "fair",
+        eye_color: "blue",
+      },
+      {
+        name: "Luke Skywalker",
+        height: "172",
+        mass: "77",
+        hair_color: "blond",
+        skin_color: "fair",
+        eye_color: "blue",
+      },
+      {
+        name: "Luke Skywalker",
+        height: "172",
+        mass: "77",
+        hair_color: "blond",
+        skin_color: "fair",
+        eye_color: "blue",
+      },
+    ],
+  },
+};
+
+export default {
+  get: jest.fn().mockResolvedValue(mockedResponse),
+};
